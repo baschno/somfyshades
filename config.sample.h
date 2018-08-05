@@ -1,0 +1,5 @@
+#define WIFI_SSID "..."
+#define WIFI_PASS "..."
+#define MQTT_SERVER "..."
+#define MQTT_USER "..."
+#define MQTT_PWD "..."
